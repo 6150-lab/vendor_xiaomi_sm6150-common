@@ -433,7 +433,6 @@ PRODUCT_PACKAGES += \
     vendor.qti.imsrtpservice@3.1 \
     CACertService \
     CneApp \
-    EuiccGoogle \
     IWlanService \
     SoterService \
     TimeService \
